@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="center"><img width="400" src="https://i.giphy.com/media/2x4b4X7yUnmww/giphy.webp"></img></p>
 
 <!--
 **helgrind/helgrind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
